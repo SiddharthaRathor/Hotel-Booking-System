@@ -1,2 +1,2 @@
 # Hotel-Booking-System
-A hotel booking/reservation system for searching and booking hotel rooms as needed.
+A project for hotel booking/reservation system using the C++ language, for searching and booking hotel rooms as needed.
