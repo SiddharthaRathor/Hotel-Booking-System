@@ -27,7 +27,6 @@ bool sortByBan(Hotel& A, Hotel& B)
 	return A.name > B.name;
 }
 
-// Function to sort hotels by rating.
 bool sortByr(Hotel& A, Hotel& B)
 {
 	return A.rating > B.rating;
@@ -256,3 +255,4 @@ int main()
 
 	return 0;
 }
+
